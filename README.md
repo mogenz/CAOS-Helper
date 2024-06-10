@@ -35,6 +35,12 @@ Implements the Round Robin scheduling algorithm for process management.
 ### 10. `virtual-memory.py`
 Simulates virtual memory management including paging and page replacement algorithms.
 
+### 11. `virtual-phys.py`
+Finds the physcial address from the virtual address and 
+
+### 12. `disk-capacity.py`
+Calculates disk capacity from platters, surfaces per platter, cylinders and sectprs per track.
+
 ## Usage
 
 Each script can be run individually using Python. For example:
