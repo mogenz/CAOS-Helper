@@ -1,4 +1,5 @@
 # CAOS Helper :)
+Helper for Computer Architecture and Operating Systems
 
 This project contains several Python scripts, each serving a specific purpose related to computer science concepts. Below is a brief description of each file:
 
